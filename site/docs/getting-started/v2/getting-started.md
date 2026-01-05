@@ -170,7 +170,7 @@ Build failed with 1 error(s) in 1.0s
 
 We can see that we have one passing test, and one failing test. That's exactly what we would expect given what we wrote.
 
-Now that we're gotten our first tests to run, let's introduce one more way to write tests: using theories.
+Now that we've gotten our first tests to run, let's introduce one more way to write tests: using theories.
 
 ## Write your first theory
 
